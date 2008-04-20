@@ -1,0 +1,9 @@
+file: bugs.xml
+token: YourLightHouseToken
+account: YourAccount
+project: ProjectID
+users: { loe@onehub.com: 15047,
+         jim@jimmers.com: 1337,
+         john@johnson.com: 874 }
+milestones { Beta 1: 234
+             Version 2: 984 }
