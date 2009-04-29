@@ -1,0 +1,8 @@
+file: corpsite.xml
+token: 273220aacded80c4adad164fb347e31e56dde3d5
+account: onehub
+project_name: Corpsite
+project: ProjectID
+users: { loe@onehub.com: 15047,
+         jim@jimmers.com: 1337,
+         john@johnson.com: 874 }
